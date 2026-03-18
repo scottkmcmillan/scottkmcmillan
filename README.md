@@ -18,6 +18,6 @@ at Adidas to AI systems for fitness at Google. 25+ years turning cutting-edge sc
 - **Factor 9 Coaching (2007–2014):** Built and operated a data-driven performance coaching company - coached multiple Ironman Hawaii qualifiers.
 - **XCO Tech (2014–2022):** CEO, Co-founder, led the commercialization of a personalized sport coaching and precision medicine platform with patent protected hardware, software and data analytics (including AI), in addition to a FDA-compliant, AI edge-computing multi-sensor biometric patch. Raised ~$5M to fund operations. Developed a joint venture and multiple licensing partnerships. Led participation in a €21M multinational R&D consortium.
 - **Sr. Director, Digital Product, Exos @ Google (2023–2026):** Digital AI fitness product management for vision AI and LLMs applied to personalized coaching, load monitoring, and assessment.
-- **Quarterback AI (2022–Present):** Building agentic solutions to solve a company's AI + Human intelligence equation. Developed agentic engineering systems maximizing agentic speed without going off track (drift).  
+- **Quarterback AI (2026–Present):** Building agentic solutions to solve a company's AI + Human intelligence equation. Developed agentic engineering systems maximizing agentic speed without going off track (drift).  
 </details>
 
