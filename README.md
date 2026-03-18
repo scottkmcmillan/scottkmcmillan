@@ -13,7 +13,7 @@ I build organizations and products in the sport, fitness and health industry —
 📖 The 25-Year Thread  
   
 **United States Olympic Committee (1999–2000)**   
-Novel kinetic (force) systems and methods + 3D kinematic analysis for elite Olympic athlete assessment.
+Novel kinetic (force) systems and methods + 3D kinematic analysis for elite athlete assessment.
 
 **Adidas Innovation (2000–2006)**  
 Research lead on the team that shipped the world's first intelligent shoe (Adidas 1) — Popular Science Grand Award.
