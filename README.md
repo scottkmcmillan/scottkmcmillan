@@ -2,11 +2,11 @@
 
 **Executive Product, Innovation & Operations Leader | AI + Human Intelligence | Builder-Strategist**
 
-I build organizations and performance products for sport, fitness, health & the workplace — from the world's first intelligent shoe at Adidas to AI systems for fitness at Google. 25+ years turning cutting-edge science and engineering into real-world outcomes.
+I build organizations and products in the sport, fitness and health industry — from the world's first intelligent shoe at Adidas to AI systems for fitness at Google. 25+ years turning cutting-edge science and engineering into real-world outcomes.
 
 |🤖 AI Product Strategy | 🏃 0 → 1 Builder | 🌐 Executive Operator |
 |-----------------------|------------------|-----------------------|
-| Agentic AI, ML, GenAI/LLM, Computer Vision| Wearable Hardware, Full Stack Software, Health & Performance Methodology | Capital Strategy, Board Reporting, P&L Ownership|
+| Agentic AI, ML, GenAI, Computer Vision| Wearable Hardware, Full Stack Software, Health & Performance Methodology | Capital Strategy, Board Reporting, P&L Ownership|
 | Data pipelines, Personalization, Digital Biomarkers | Innovation, Entrepeneurship, IP Strategy | Cross-Functional & Multinational Programs |
 
 ## Career Arc
