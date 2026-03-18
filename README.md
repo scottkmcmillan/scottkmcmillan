@@ -10,8 +10,9 @@ at Adidas to AI systems for fitness at Google. 25+ years turning cutting-edge sc
 | Agentic AI, ML, GenAI/LLM, Computer Vision| Wearable Hardware, Full Stack Software, Health & Performance Methodology | Capital Financing, Financial Statements|
 | Data pipelines, Personalization, Digital Biomarkers | Founder | Cross-Functional & Multinational programs |
 
+## Career Arc
 <details>
-<summary>📖 Career Arc — The 25-Year Thread</summary>
+<summary>📖 The 25-Year Thread</summary>
 
 - **USOC (1999–2000):** Novel kinetic (force) systems and methods + 3D kinematic analysis for elite Olympic athlete assessment.
 - **Adidas Innovation (2000–2006):** Research lead on the team that shipped the world's first intelligent shoe (Adidas 1) — Popular Science Grand Award.
@@ -21,3 +22,19 @@ at Adidas to AI systems for fitness at Google. 25+ years turning cutting-edge sc
 - **Quarterback AI (2026–Present):** Building agentic solutions to solve a company's AI + Human intelligence equation. Developed agentic engineering systems maximizing agentic speed without going off track (drift).  
 </details>
 
+## My Product & Tech Stack
+
+**AI / ML:** Multi-modal Gen AI · Multi-Agent Orchestration · Computer Vision · MLP, CNN, DNN · ONNX Runtime · Accelerated RAG · Nomic Embed Text · Annotation Pipelines · ML Eval Frameworks 
+
+**Hardware & Sensing:** UWB Motion Tracking · PPG · HRV · GSR · IMU · Edge Computing · Strain Gauges · Force Platforms · 2D/3D motion capture & analysis 
+
+**Engineering:** Rust (Axum, Tokio, SQLx) · TypeScript/React · PostgreSQL · Python · GitHub Actions · Playwright  ·  Claude Code  ·  Antigravity
+
+**Product Methods:** Agile/Waterfall Hybrid · TRL, Minimal/Fully Functional/Production Stages · Design Thinking · UXR · RDD/PRD · Product Principles Strategic Alignment Pyramid of Clarity · OKR/KPI Framework · People, Strategy, Execution, Cashflow Productivity: GitHub · Asana · Confluence/Jira · Google Workspace · Slack
+
+## 📬 Let's Connect
+
+💼 [LinkedIn](https://linkedin.com/in/scottmcmillan)
+
+**Open to:** Innovating, building, learning and networking
+**Industries:** AI · Digital Health · Human Performance · B2B / Consumer Tech · Sport Science
