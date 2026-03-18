@@ -12,7 +12,7 @@ I build organizations and products in the sport, fitness and health industry —
 ## Career Arc
 📖 The 25-Year Thread  
   
-**USOC (1999–2000)**   
+**United States Olympic Committee (1999–2000)**   
 Novel kinetic (force) systems and methods + 3D kinematic analysis for elite Olympic athlete assessment.
 
 **Adidas Innovation (2000–2006)**  
@@ -24,8 +24,8 @@ Built and operated a data-driven performance coaching company - coached multiple
 **XCO Tech (2014–2022)**  
 As Co-founder and CEO, led the commercialization of a personalized sport coaching and precision medicine platform with patent protected hardware, software and data analytics (including AI), in addition to an FDA-compliant, AI edge-computing multi-sensor biometric patch. Raised ~$5M to fund operations, closed initial B2B sales. Developed a joint venture and multiple licensing partnerships. Led participation in a €21M multinational R&D consortium.
 
-**Sr. Director, Digital Product, Exos@Google (2023–2026)**  
-Digital fitness product and operations management in addition to AI research support (ML, computer vision, multi-modal genAI) as applied to personalized coaching, load monitoring, and assessment.
+**Exos@Google (2023–2026)**  
+Directed fitness product and operations management in addition to AI research support (ML, computer vision, multi-modal genAI) as applied to personalized coaching, load monitoring, and assessment.
 
 **Quarterback AI (2026–Present)**  
 Building agentic AI based solutions to solve a company's Human + AI intelligence equation. Developed agentic engineering systems to maximize agentic coding speed and minimize drift (going off track).  
