@@ -2,7 +2,7 @@
 
 **Executive Product, Innovation & Operations Leader | AI + Human Intelligence | Builder-Strategist**
 
-I build organizations and products in the sport, fitness and health industry — from the world's first intelligent shoe at Adidas to AI systems for fitness at Google. 25+ years turning cutting-edge science and engineering into real-world outcomes.
+I build organizations and products across industries — from the world's first intelligent shoe at Adidas to AI systems for fitness at Google. 25+ years turning cutting-edge science and engineering into real-world outcomes.
 
 |🤖 AI Product Strategy | 🏃 0 → 1 Builder | 🌐 Executive Operator |
 |-----------------------|------------------|-----------------------|
