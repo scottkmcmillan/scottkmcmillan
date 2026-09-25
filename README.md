@@ -28,7 +28,7 @@ As Co-founder and CEO, led the commercialization of a personalized sport coachin
 Directed fitness product and operations management in addition to AI research support (ML, computer vision, multi-modal genAI) as applied to personalized coaching, load monitoring, and assessment.
 
 **Quarterback AI (2026–Present)**  
-Building agentic AI based solutions to solve a company's Human + AI intelligence equation. Developed agentic engineering systems to maximize agentic coding speed and minimize drift (going off track).  
+Building agentic AI based solutions to solve a company's Human + AI intelligence equation. Developed agentic engineering systems to maximize product velocity, code quality and minimize drift (going off track).  
 
 ## My Product & Tech Stack  
 
